@@ -1,6 +1,4 @@
-# Meta|Data Releases
-
-### Version 2.4.0
+# Version 2.4.0
 
 | macOS | Linux | Windows |
 | --- | --- | --- |
