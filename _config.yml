@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
 title: Meta|Data
 description: Releases for the Oracle Database Delta Tool
-github:
-  is_project_page: false
+github_ribbon: false
