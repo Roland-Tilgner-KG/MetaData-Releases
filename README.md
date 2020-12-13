@@ -2,5 +2,5 @@
 
 | macOS | Linux | Windows |
 | :---------: | :---------: | :---------: |
-| [![](assets/macos.png)](http://www.roland-tilgner.de/) | [![](assets/linux.png)](http://www.roland-tilgner.de/) | [![](assets/windows.png)](http://www.roland-tilgner.de/) |
-| [Download](http://www.roland-tilgner.de/) | [Download](http://www.roland-tilgner.de/) | [Download](http://www.roland-tilgner.de/)|
+| [![](assets/macos.png)](downloads/current/macos.zip) | [![](assets/linux.png)](downloads/current/linux.zip) | [![](assets/windows.png)](downloads/current/windows.zip) |
+| [Download](downloads/current/macos.zip) | [Download](downloads/current/linux.zip) | [Download](downloads/current/windows.zip)|
