@@ -1,4 +1,3 @@
-![](assets/metadata.png)
 # Version 2.4.0
 
 | macOS | Linux | Windows |
