@@ -2,5 +2,5 @@
 
 | macOS | Linux | Windows |
 | :---------: | :---------: | :---------: |
-| [![](assets/macos.png)](downloads/current/macos.zip) | [![](assets/linux.png)](downloads/current/linux.zip) | [![](assets/windows.png)](downloads/current/windows.zip) |
-| [Download](downloads/current/macos.zip) | [Download](downloads/current/linux.zip) | [Download](downloads/current/windows.zip)|
+| [![](assets/macos.png)](downloads/current/metadata-macos.zip) | [![](assets/linux.png)](downloads/current/metadata-linux.zip) | [![](assets/windows.png)](downloads/current/metadata-windows.zip) |
+| [Download](downloads/current/metadata-macos.zip) | [Download](downloads/current/metadata-linux.zip) | [Download](downloads/current/metadata-windows.zip)|
