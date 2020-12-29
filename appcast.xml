@@ -1,5 +1,13 @@
 <?xml version="1.0"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+<rss 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" 
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/" 
+  xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
   <channel>
     <title>meta|data</title>
     <description>meta|data</description>
@@ -11,30 +19,27 @@
       <title>2.4.0</title>
       <version>2.4.0</version>
       <guid isPermaLink="false">meta|data 2.4.0</guid>
-      <sparkle:releaseNotesLink>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.4.0/release_notes.html</sparkle:releaseNotesLink>
-      <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.4.0/release_notes.html</description>
       <author>Roland Tilgner KG</author>
       <pubDate>Tue, 29 Dec 2020 14:28:16 +0200</pubDate>
+      <link>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.4.0/release_notes.html</link>
       <enclosure length="38474598" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.4.0/metadata-2.4.0.zip"/>
     </item>
     <item>
       <title>2.3.3</title>
       <version>2.3.3</version>
       <guid isPermaLink="false">meta|data 2.3.3</guid>
-      <sparkle:releaseNotesLink>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.3.3/release_notes.html</sparkle:releaseNotesLink>
-      <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.3.3/release_notes.html</description>
       <author>Roland Tilgner KG</author>
       <pubDate>Sun, 07 Jun 2020 11:28:16 +0200</pubDate>
+      <link>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.3.3/release_notes.html</link>
       <enclosure length="38474598" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.3.3/metadata-2.3.3.zip"/>
     </item>
     <item>
       <title>2.3.0</title>
       <version>2.3.0</version>
       <guid isPermaLink="false">meta|data 2.3.0</guid>
-      <sparkle:releaseNotesLink>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.3.0/release_notes.html</sparkle:releaseNotesLink>
-      <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.3.0/release_notes.html</description>
       <author>Roland Tilgner KG</author>
       <pubDate>Fri, 7 Feb 2020 15:43:58 +0100</pubDate>
+      <link>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.3.0/release_notes.html</link>
       <enclosure length="24251859" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.3.0/metadata-2.3.0.zip"/>
     </item>
   </channel>
