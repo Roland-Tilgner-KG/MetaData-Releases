@@ -6,5 +6,5 @@
 | [Download](downloads/{VERSION}/metadata-{VERSION}.zip) | [Download](downloads/{VERSION}/metadata-{VERSION}.zip) | [Download](downloads/{VERSION}/metadata-{VERSION}.zip)|
 
 For more information on the changes see the latest [Release Notes](release-notes/{VERSION}/release_notes.html).
-Find the current [AppCast](appcast.xml) here.
+Find the current [AppCast here.](appcast.xml)
 
