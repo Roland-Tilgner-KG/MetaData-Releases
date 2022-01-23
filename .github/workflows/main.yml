@@ -33,7 +33,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Create appcast
-		  bin/create-appcast.sh
+          bin/create-appcast.sh
 
       - uses: stefanzweifel/git-auto-commit-action@v4.3.0
         with:
