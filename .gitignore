@@ -14,3 +14,9 @@ _book
 *.epub
 *.mobi
 *.pdf
+*.bak
+.vscode
+.settings
+.DS_Store
+bin/appcast/vendor/
+bin/appcast/Gemfile.lock
