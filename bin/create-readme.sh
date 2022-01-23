@@ -7,4 +7,10 @@ echo "CURRENT: ${CURRENT_VERSION}"
 
 cp ${PRJ_PATH}/TEMPLATE.md ${PRJ_PATH}/README.md
 
-sed -i '' "s/{VERSION}/${CURRENT_VERSION}/g" "${PRJ_PATH}/README.md"
+if [[ "$OSTYPE" == "darwin"* ]]; then
+	sed -i '' "s/{VERSION}/${CURRENT_VERSION}/g" "${PRJ_PATH}/README.md"
+else
+	sed -i "s/{VERSION}/${CURRENT_VERSION}/g" "${PRJ_PATH}/README.md"
+fi
+
+cat "${PRJ_PATH}/README.md"
