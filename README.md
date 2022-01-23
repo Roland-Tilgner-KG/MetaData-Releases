@@ -6,5 +6,5 @@
 | [Download](downloads/2.5.3/metadata-2.5.3.zip) | [Download](downloads/2.5.3/metadata-2.5.3.zip) | [Download](downloads/2.5.3/metadata-2.5.3.zip)|
 
 For more information on the changes see the latest [Release Notes](release-notes/2.5.3/release_notes.html).
-Find the current [AppCast](appcast.xml) here.
+Find the current [AppCast here.](appcast.xml)
 
