@@ -4,7 +4,7 @@
     <title>meta|data</title>
     <description>meta|data</description>
     <language>en</language>
-    <pubDate>Sun, 23 Jan 2022 14:56:43 +0000</pubDate>
+    <pubDate>Sun, 23 Jan 2022 15:01:04 +0000</pubDate>
     <link>https://roland-tilgner-kg.github.io/MetaData-Releases/appcast.xml</link>
     <atom:link href="https://roland-tilgner-kg.github.io/MetaData-Releases/appcast.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -13,7 +13,7 @@
       <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.4.0/release_notes.html</description>
       <version/>
       <author>Roland Tilgner KG</author>
-      <pubDate>Sun, 23 Jan 2022 14:56:38 +0000</pubDate>
+      <pubDate>Sun, 23 Jan 2022 15:00:59 +0000</pubDate>
       <guid isPermaLink="false">meta|data </guid>
       <enclosure length="44497384" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.4.0/metadata-2.4.0.zip"/>
     </item>
@@ -23,7 +23,7 @@
       <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.5.0/release_notes.html</description>
       <version/>
       <author>Roland Tilgner KG</author>
-      <pubDate>Sun, 23 Jan 2022 14:56:38 +0000</pubDate>
+      <pubDate>Sun, 23 Jan 2022 15:00:59 +0000</pubDate>
       <guid isPermaLink="false">meta|data </guid>
       <enclosure length="49094216" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.5.0/metadata-2.5.0.zip"/>
     </item>
@@ -33,7 +33,7 @@
       <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.5.2/release_notes.html</description>
       <version/>
       <author>Roland Tilgner KG</author>
-      <pubDate>Sun, 23 Jan 2022 14:56:38 +0000</pubDate>
+      <pubDate>Sun, 23 Jan 2022 15:00:59 +0000</pubDate>
       <guid isPermaLink="false">meta|data </guid>
       <enclosure length="49110172" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.5.2/metadata-2.5.2.zip"/>
     </item>
@@ -43,9 +43,19 @@
       <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.5.3/release_notes.html</description>
       <version/>
       <author>Roland Tilgner KG</author>
-      <pubDate>Sun, 23 Jan 2022 14:56:38 +0000</pubDate>
+      <pubDate>Sun, 23 Jan 2022 15:00:59 +0000</pubDate>
       <guid isPermaLink="false">meta|data </guid>
       <enclosure length="49074721" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.5.3/metadata-2.5.3.zip"/>
+    </item>
+    <item>
+      <title/>
+      <sparkle:releaseNotesLink>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.6.0/release_notes.html</sparkle:releaseNotesLink>
+      <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.6.0/release_notes.html</description>
+      <version/>
+      <author>Roland Tilgner KG</author>
+      <pubDate>Sun, 23 Jan 2022 15:00:59 +0000</pubDate>
+      <guid isPermaLink="false">meta|data </guid>
+      <enclosure length="51931759" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.6.0/metadata-2.6.0.zip"/>
     </item>
   </channel>
 </rss>
