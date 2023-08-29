@@ -4,7 +4,7 @@
     <title>meta|data</title>
     <description>meta|data</description>
     <language>en</language>
-    <pubDate>Fri, 18 Aug 2023 09:19:58 +0000</pubDate>
+    <pubDate>Tue, 29 Aug 2023 10:09:49 +0000</pubDate>
     <link>https://roland-tilgner-kg.github.io/MetaData-Releases/appcast.xml</link>
     <atom:link href="https://roland-tilgner-kg.github.io/MetaData-Releases/appcast.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -13,7 +13,7 @@
       <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.4.0/release_notes.html</description>
       <version/>
       <author>Roland Tilgner KG</author>
-      <pubDate>Fri, 18 Aug 2023 09:19:51 +0000</pubDate>
+      <pubDate>Tue, 29 Aug 2023 10:09:42 +0000</pubDate>
       <guid isPermaLink="false">meta|data </guid>
       <enclosure length="44497384" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.4.0/metadata-2.4.0.zip"/>
     </item>
@@ -23,7 +23,7 @@
       <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.5.0/release_notes.html</description>
       <version/>
       <author>Roland Tilgner KG</author>
-      <pubDate>Fri, 18 Aug 2023 09:19:51 +0000</pubDate>
+      <pubDate>Tue, 29 Aug 2023 10:09:42 +0000</pubDate>
       <guid isPermaLink="false">meta|data </guid>
       <enclosure length="49094216" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.5.0/metadata-2.5.0.zip"/>
     </item>
@@ -33,7 +33,7 @@
       <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.5.2/release_notes.html</description>
       <version/>
       <author>Roland Tilgner KG</author>
-      <pubDate>Fri, 18 Aug 2023 09:19:51 +0000</pubDate>
+      <pubDate>Tue, 29 Aug 2023 10:09:43 +0000</pubDate>
       <guid isPermaLink="false">meta|data </guid>
       <enclosure length="49110172" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.5.2/metadata-2.5.2.zip"/>
     </item>
@@ -43,7 +43,7 @@
       <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.5.3/release_notes.html</description>
       <version/>
       <author>Roland Tilgner KG</author>
-      <pubDate>Fri, 18 Aug 2023 09:19:51 +0000</pubDate>
+      <pubDate>Tue, 29 Aug 2023 10:09:43 +0000</pubDate>
       <guid isPermaLink="false">meta|data </guid>
       <enclosure length="49074721" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.5.3/metadata-2.5.3.zip"/>
     </item>
@@ -53,7 +53,7 @@
       <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.6.0/release_notes.html</description>
       <version/>
       <author>Roland Tilgner KG</author>
-      <pubDate>Fri, 18 Aug 2023 09:19:51 +0000</pubDate>
+      <pubDate>Tue, 29 Aug 2023 10:09:43 +0000</pubDate>
       <guid isPermaLink="false">meta|data </guid>
       <enclosure length="51931819" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.6.0/metadata-2.6.0.zip"/>
     </item>
@@ -63,7 +63,7 @@
       <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.6.1/release_notes.html</description>
       <version/>
       <author>Roland Tilgner KG</author>
-      <pubDate>Fri, 18 Aug 2023 09:19:51 +0000</pubDate>
+      <pubDate>Tue, 29 Aug 2023 10:09:43 +0000</pubDate>
       <guid isPermaLink="false">meta|data </guid>
       <enclosure length="51934545" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.6.1/metadata-2.6.1.zip"/>
     </item>
@@ -73,7 +73,7 @@
       <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.7.1/release_notes.html</description>
       <version/>
       <author>Roland Tilgner KG</author>
-      <pubDate>Fri, 18 Aug 2023 09:19:51 +0000</pubDate>
+      <pubDate>Tue, 29 Aug 2023 10:09:43 +0000</pubDate>
       <guid isPermaLink="false">meta|data </guid>
       <enclosure length="51930886" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.7.1/metadata-2.7.1.zip"/>
     </item>
@@ -83,7 +83,7 @@
       <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.7.2/release_notes.html</description>
       <version/>
       <author>Roland Tilgner KG</author>
-      <pubDate>Fri, 18 Aug 2023 09:19:51 +0000</pubDate>
+      <pubDate>Tue, 29 Aug 2023 10:09:43 +0000</pubDate>
       <guid isPermaLink="false">meta|data </guid>
       <enclosure length="51925261" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.7.2/metadata-2.7.2.zip"/>
     </item>
@@ -93,9 +93,19 @@
       <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.7.4/release_notes.html</description>
       <version/>
       <author>Roland Tilgner KG</author>
-      <pubDate>Fri, 18 Aug 2023 09:19:51 +0000</pubDate>
+      <pubDate>Tue, 29 Aug 2023 10:09:43 +0000</pubDate>
       <guid isPermaLink="false">meta|data </guid>
       <enclosure length="51925925" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.7.4/metadata-2.7.4.zip"/>
+    </item>
+    <item>
+      <title/>
+      <sparkle:releaseNotesLink>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.7.5/release_notes.html</sparkle:releaseNotesLink>
+      <description>https://roland-tilgner-kg.github.io/MetaData-Releases/release-notes/2.7.5/release_notes.html</description>
+      <version/>
+      <author>Roland Tilgner KG</author>
+      <pubDate>Tue, 29 Aug 2023 10:09:43 +0000</pubDate>
+      <guid isPermaLink="false">meta|data </guid>
+      <enclosure length="51927016" type="application/zip" url="https://roland-tilgner-kg.github.io/MetaData-Releases/downloads/2.7.5/metadata-2.7.5.zip"/>
     </item>
   </channel>
 </rss>
